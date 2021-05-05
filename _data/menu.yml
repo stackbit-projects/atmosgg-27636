@@ -27,7 +27,7 @@ menu_pages:
     show_on_home: false
     icon_name: fas fa-address-card
     category: about
-    tooltip: This is about
+    tooltip: Watch movies here
 menu_contacts:
   - faicon: fab fa-github-alt
     url: null
