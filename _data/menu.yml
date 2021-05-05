@@ -26,7 +26,7 @@ menu_pages:
     url: about.html
     show_on_home: false
     icon_name: fas fa-address-card
-    category: about
+    category: Links
     tooltip: Watch movies here
 menu_contacts:
   - faicon: fab fa-github-alt
