@@ -22,7 +22,7 @@ menu_pages:
     description: >-
       Category 2 description, which is written in menu.yml file under
       :description property
-  - title: About
+  - title: Watch
     url: about.html
     show_on_home: false
     icon_name: fas fa-address-card
